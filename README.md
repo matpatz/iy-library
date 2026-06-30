@@ -1,5 +1,5 @@
 # Everything was ai generated
-Can Someone else make this, preferabbly more accurate (my agents stupid) and without ai
+Can Someone else make this, preferably more accurate (my agents stupid) and without ai
 # Infinite Yield
 
 The best command line script for roblox.
