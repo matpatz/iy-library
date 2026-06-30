@@ -1,3 +1,4 @@
+# Everything was ai generated
 # Infinite Yield
 
 The best command line script for roblox.
